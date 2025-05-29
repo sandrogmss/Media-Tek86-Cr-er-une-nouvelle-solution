@@ -142,12 +142,12 @@ namespace MediaTek86.Vue
 
         private void dgvAbsences_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
-            // Inutilisé
+            
         }
 
         private void lblPersonnel_Click(object sender, EventArgs e)
         {
-            // Inutilisé
+            
         }
     }
 }

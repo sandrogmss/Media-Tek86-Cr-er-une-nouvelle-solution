@@ -13,7 +13,7 @@ namespace MediaTek86.Vue
             InitializeComponent();
             ChargerPersonnel();
 
-            // Abonnement manuel aux événements (au cas où ce n’est pas fait dans le Designer)
+            
             btnAjouterPersonnel.Click += btnAjouterPersonnel_Click;
             btnModifierPersonnel.Click += btnModifierPersonnel_Click;
             btnSupprimerPersonnel.Click += btnSupprimerPersonnel_Click;
@@ -111,7 +111,7 @@ namespace MediaTek86.Vue
 
         private void button1_Click(object sender, EventArgs e)
         {
-            // Bouton inutilisé
+            
         }
     }
 }

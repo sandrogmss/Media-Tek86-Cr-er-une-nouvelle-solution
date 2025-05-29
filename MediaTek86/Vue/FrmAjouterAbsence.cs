@@ -15,7 +15,7 @@ namespace MediaTek86.Vue
             this.idPersonnel = idPersonnel;
             RemplirMotifs();
 
-            // 🔁 Assure-toi que les événements sont bien connectés
+            
             btnValider.Click += btnValider_Click;
             btnAnnuler.Click += btnAnnuler_Click;
         }
